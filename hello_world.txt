@@ -2,3 +2,6 @@ This is the first txt.
 
 
 Now i will push agai to see if VS messages go through or not
+
+
+Now i will make more than one commit and then push to see how that works out
